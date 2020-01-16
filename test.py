@@ -1,8 +1,6 @@
 import asyncio
 from DNSoverHTTPS import DNSoverHTTPS
 
-d = DNSoverHTTPS()
-
 # test code 
 d = DNSoverHTTPS()
 
